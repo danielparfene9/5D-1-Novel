@@ -1,0 +1,4 @@
+repository "5D-1 Novel@danielparfene9@cloud"
+  path "/"
+    br "/main"
+    co "/main"

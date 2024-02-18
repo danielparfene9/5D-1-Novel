@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: PIDAR PIDAR PIDARAS
+    speaker: {fileID: 11400000, guid: a7c974f679961ec41903a1f0eb0d251c, type: 2}
+  - text: Ba tu esti pidaras!
+    speaker: {fileID: 11400000, guid: 90829dc12505aa749bbbb978fb8b7c05, type: 2}
+  background: {fileID: 21300000, guid: c11ea0aebc7a02b4a9e4ed7118ca31fb, type: 3}
+  nextScene: {fileID: 0}
