@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5afba48-50dc-475e-bc2a-beac65077249" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../../.plastic/plastic.wktree" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.plastic/plastic.wktree" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/MainScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Controllers.dir/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Controllers.dir/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackgroundController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BackgroundController.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/BottomBarController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BottomBarController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameController.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/GameController.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Entities/Speaker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Entities/Speaker.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Entities/StoryScene.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Entities/StoryScene.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Story/Scenes/1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Story/Scenes/1.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Controllers.dir/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Controllers.dir/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +66,7 @@
       <workItem from="1708225908556" duration="3000" />
       <workItem from="1708226032289" duration="10026000" />
       <workItem from="1708268753676" duration="1402000" />
-      <workItem from="1708270659241" duration="599000" />
+      <workItem from="1708270659241" duration="1012000" />
     </task>
     <servers />
   </component>
