@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5afba48-50dc-475e-bc2a-beac65077249" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../.plastic/plastic.wktree" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.plastic/plastic.wktree" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../../Scenes/MainScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Controllers.dir/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Controllers.dir/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackgroundController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BackgroundController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/BottomBarController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/BottomBarController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GameController.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Entities/Speaker.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Entities/Speaker.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Entities/StoryScene.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Entities/StoryScene.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Story/Scenes/1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Story/Scenes/1.asset" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/Downloads/Visual-Novel-Tutorial-main/Visual-Novel-Tutorial-main/Assets/Scripts/Controllers/BottomBarController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/Downloads/Visual-Novel-Tutorial-main/Visual-Novel-Tutorial-main/Assets/Scripts/Controllers/GameController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/BottomBarController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/GameController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Entities/Speaker.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Entities/StoryScene.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2cWRgfeyNotrYTHFv78VTfTbS87" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\danie\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\DecompilerCache&quot;,
+      &quot;C:\\Users\\danie\\AppData\\Roaming\\JetBrains\\Rider2023.3\\resharper-host\\SourcesCache&quot;,
+      &quot;C:\\Users\\danie\\AppData\\Local\\Symbols\\src&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5afba48-50dc-475e-bc2a-beac65077249" name="Changes" comment="" />
+      <created>1708225462940</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708225462940</updated>
+      <workItem from="1708225467020" duration="37000" />
+      <workItem from="1708225585069" duration="29000" />
+      <workItem from="1708225908556" duration="3000" />
+      <workItem from="1708226032289" duration="10026000" />
+      <workItem from="1708268753676" duration="1402000" />
+      <workItem from="1708270659241" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>

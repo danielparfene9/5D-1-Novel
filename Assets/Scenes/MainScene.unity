@@ -372,6 +372,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   barText: {fileID: 646839675}
   personNameText: {fileID: 1201889996}
+  scenes:
+  - {fileID: 11400000, guid: a4d843e8b7eb5534b889f5cfb28015a4, type: 2}
+  - {fileID: 11400000, guid: 47a58ec65837f4e47ad7eed03773474c, type: 2}
   currentScene: {fileID: 11400000, guid: a4d843e8b7eb5534b889f5cfb28015a4, type: 2}
 --- !u!114 &119522229
 MonoBehaviour:
